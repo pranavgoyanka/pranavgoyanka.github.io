@@ -1,0 +1,218 @@
+
+@font-face{
+				scr:"C:/Users/ShadowRunner/Downloads/gothic/gothic.ttf";
+				font-family: "Century Gothic";
+			}
+#heading{
+	font-family: 'Century Gothic', sans-serif;
+	background-color: #3F51B5;
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	color: #ff4081;
+}
+
+
+#display{
+	position: fixed;
+	background-color: rgba(255, 255, 255, 0.44);
+	height: 70px;
+	width: 33.33%;
+	top: 200px;
+	color: #ff80ab;
+	left: 33.33%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	}
+
+#seven{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 280px;
+	left: 33.33%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+	cursor: pointer;
+}
+
+#eight{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 280px;
+	left: 41.77%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	cursor: pointer;
+	background-color: #3F51B5;
+}
+
+#nine{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 280px;
+	cursor: pointer;
+	left: 50.66%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#divi{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 280px;
+	cursor: pointer;
+	left: 59.33%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#four{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 330px;
+	cursor: pointer;
+	left: 33.33%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#five{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 330px;
+	left: 41.77%;
+	cursor: pointer;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#six{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 330px;
+	left: 50.66%;
+	cursor: pointer;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#multi{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	cursor: pointer;
+	top: 330px;
+	left: 59.33%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+#one{
+	position: fixed;
+	cursor: pointer;
+	height: 40px;
+	width: 7.33%;
+	top: 380px;
+	left: 33.33%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#two{
+	position: fixed;
+	height: 40px;
+	cursor: pointer;
+	width: 7.33%;
+	top: 380px;
+	left: 41.77%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#three{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	cursor: pointer;
+	top: 380px;
+	left: 50.66%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#add{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 380px;
+	cursor: pointer;
+	left: 59.33%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+#point{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 430px;
+	left: 33.33%;
+	cursor: pointer;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#zero{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 430px;
+	left: 41.77%;
+	cursor: pointer;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#equals{
+	position: fixed;
+	height: 40px;
+	width: 7.33%;
+	top: 430px;
+	left: 50.66%;
+	cursor: pointer;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
+
+#sub{
+	position: fixed;
+	height: 40px;
+	cursor: pointer;
+	width: 7.33%;
+	top: 430px;
+	left: 59.33%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 32.5px;
+	background-color: #3F51B5;
+}
